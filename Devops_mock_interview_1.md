@@ -30,8 +30,8 @@ Ansible
 
 Jenkins
 -----------------------------------------------------------------------------------------------------------------------
-16. How to save only last 5 builds of jenkins job?
-17. Have you worked on Jenknsfile? can we use docker container as a node in Jenkinsfile? Who will handle docker container creation and deletion? If i am building a maven project always docker container is fresh instance it will try to download dependency from repository, what measures you will take to reduce build time?
+16. How to save only last the 5 builds of jenkins job?
+17. Have you worked on Jenknsfile? can we use docker container as a node in Jenkinsfile? Who will handle docker container creation and deletion? If i am building a maven project always docker container is fresh instance it will try to download dependency from a repository, what measures you will take to reduce build time?
 18. Why we need multi branch pipeline?
 19. If you forget Jenkins password, how would you login back?
 
@@ -40,14 +40,14 @@ Docker
 20. Any 3 best practices of docker?
 21. Difference between docker stop and docker kill?
 22. Command to list containers which state is exited?
-23. command to clean-up docker host ( deleting stopped containers, dangling images and unused networks)?
+23. What would be the command to clean-up docker host ( deleting stopped containers, dangling images and unused networks)?
 24. What version of docker you have used? Specific reason to use that particular version?
 25. Can we have multiple CMD in Dockerfile?
-26. Have you worked on docker swarm and docker compose?
+26. Have you worked on docker swarm and docker-compose?
 
 Kubernetes
 --------------------------------------------------------------------------------------------------------------------------------------
-27. Can we have multiple containers in a pod? Can we have similar conatiners in a pod? Lets say i have 4 conatiners, one of them has failed how would you check which container has failed?
-28. What is liveness and readiness probe? Why we need them?
-29. Have you worked on kubernetes monitoring? Which tools you have used?
-30. Can we deploy a pod on particular node?
+27. Can we have multiple containers in a pod? Can we have similar containers in a pod? Let's say I have 4 containers, one of them has failed how would you check which container has failed?
+28. What is the liveness and readiness probe? Why we need them?Have you worked on Kubernetes monitoring? 
+29. Which tools you have used?
+30. Can we deploy a pod on a particular node?
