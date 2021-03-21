@@ -48,6 +48,6 @@ Docker
 Kubernetes
 --------------------------------------------------------------------------------------------------------------------------------------
 27. Can we have multiple containers in a pod? Can we have similar containers in a pod? Let's say I have 4 containers, one of them has failed how would you check which container has failed?
-28. What is the liveness and readiness probe? Why we need them?Have you worked on Kubernetes monitoring? 
-29. Which tools you have used?
+28. What is the liveness and readiness probe? Why we need them?
+29. Have you worked on Kubernetes monitoring? Which tools you have used?
 30. Can we deploy a pod on a particular node?
