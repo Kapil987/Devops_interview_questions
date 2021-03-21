@@ -5,7 +5,7 @@ GIT
 ---------------------------------------------------------------------------------------------------------------------------------
 1. Why we need git? What makes git unique from other tools like SVN?
 2. Let's say i have maven repo cloned on to my local, did some changes and i have build the code now target folder will be generated. So now when i do git operations like git add, git commit or any other git operations target folder should not be considered, how would you achieve the same?
-3. difference between git pull and git fetch?
+3. Difference between git pull and git fetch?
 4. How to clone specific branch in git?
 
 Maven
@@ -39,15 +39,15 @@ Docker
 ------------------------------------------------------------------------------------------------------------------------------
 20. Any 3 best practices of docker?
 21. Difference between docker stop and docker kill?
-22. Command to list conatiners which state is exited?
-23. command to clean-up docker host ( deleting stopped conatiners, dangling images and unused networks)?
+22. Command to list containers which state is exited?
+23. command to clean-up docker host ( deleting stopped containers, dangling images and unused networks)?
 24. What version of docker you have used? Specific reason to use that particular version?
 25. Can we have multiple CMD in Dockerfile?
 26. Have you worked on docker swarm and docker compose?
 
 Kubernetes
 --------------------------------------------------------------------------------------------------------------------------------------
-27. Can we have multiple conatiners in a pod? Can we have similar conatiners in a pod? Lets say i have 4 conatiners, one of them has failed how would you check which container has failed?
+27. Can we have multiple containers in a pod? Can we have similar conatiners in a pod? Lets say i have 4 conatiners, one of them has failed how would you check which container has failed?
 28. What is liveness and readiness probe? Why we need them?
 29. Have you worked on kubernetes monitoring? Which tools you have used?
 30. Can we deploy a pod on particular node?
